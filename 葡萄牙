@@ -1,1 +1,3 @@
-"4" = "Quanto mais detalhado, seria mais fácil para nós resolvermos o problema.";
+<resources>
+    <string name="4">Quanto mais detalhado, seria mais fácil para nós resolvermos o problema.</string>
+</resources>
