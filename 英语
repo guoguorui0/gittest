@@ -1,3 +1,35 @@
 <resources>
+    <string name="feed_like_btn">Like</string>
+    <string name="post_next_btn">next</string>
+    <string name="feed_title">Featured Videos</string>
+    <string name="post_saved_txt">Saved to your album</string>
+    <string name="post_failsaved_btn">Fail to save, please save again</string>
+    <string name="post_failsavedyes_btn">Yes</string>
+    <string name="post_failsavedno_btn">No</string>
+    <string name="post_failpost_btn">Fail to post, post again?</string>
+    <string name="post_failpostyes_btn">Yes</string>
+    <string name="post_failpostno_btn">No</string>
+    <string name="post_savepost_txt">Saving, please wait</string>
+    <string name="login_skip_tip">Skip</string>
+    <string name="permission_btn">Sorry, action blocked, not yet authorized to access to the album. Please authorize it in setting.</string>
+    <string name="permission_cancle_btn">cancel</string>
+    <string name="permission_setting_btn">Setting</string>
+    <string name="comment_oversize_Tips">Over character limit.</string>
+    <string name="comment_sensitive_Tips">Your comments may have sensitive words</string>
+    <string name="comment_reply_placeholder">Reply to XXX</string>
+    <string name="comment_addComment_tips">Add comment...</string>
+    <string name="comment_viewComments_tips">View all X comments.</string>
+    <string name="comment_hadDeleteComment_tips">This comment has been deleted.</string>
+    <string name="no_more_following">No More Followings</string>
+    <string name="edit_video_effect_file_is_downloading">Downloading please wait ...</string>
+    <string name="2">Thank you!</string>
+    <string name="new_videos_updated">videos updated</string>
     <string name="4">The more detailed you describe the problem, the better we can help you solve your problems.</string>
+    <string name="comment_totalCommentCount">Comments (XXX)</string>
+    <string name="login_tip">Join Noizz, and make some Noizz</string>
+    <string name="11">A has replied B:</string>
+    <string name="loading">loading...</string>
+    <string name="loaded_successfully">loaded successfully</string>
+    <string name="load_failed">fail to load</string>
+    <string name="sys_follow">1</string>
 </resources>
